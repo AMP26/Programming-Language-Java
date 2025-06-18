@@ -7,13 +7,11 @@ public class PrintST
 {
     public void connectPrintST()
     {
-        try
-        {
+        try {
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mysql", "root", "password");
             System.out.println("Connected Successfully.");
         }
-        catch(Exception e)
-        {
+        catch(Exception e) {
             e.printStackTrace();
         }
     }

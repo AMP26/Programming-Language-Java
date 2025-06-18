@@ -1,7 +1,7 @@
 package OOPs.Constructors.overloading;
 
 public class Dog {
-    public Dog() { System.out.println("I am a Dog."); }
+    public Dog() { System.out.println("I am a B."); }
 
     private String name;
     private int legs;

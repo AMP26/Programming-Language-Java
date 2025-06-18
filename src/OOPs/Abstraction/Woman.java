@@ -1,7 +1,6 @@
 package OOPs.Abstraction;
 
-public class Woman extends Human
-{
+public class Woman extends Human {
     @Override
     public void gender()
     {

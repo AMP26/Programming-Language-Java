@@ -8,11 +8,11 @@ public class Animals {
     }
 
     public void foodConsumption() {
-        System.out.println("Animals can be herbivores, carnivores or omnivores.");
+        System.out.println("A can be herbivores, carnivores or omnivores.");
     }
 
     public void type() {
-        System.out.println("Animals cane be amphibians, birds, fishes, mammals and reptiles.");
+        System.out.println("A cane be amphibians, birds, fishes, mammals and reptiles.");
     }
 
     public String sound() {
