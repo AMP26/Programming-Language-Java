@@ -12,5 +12,14 @@ public class Operators {
         System.out.println("Modulus: a % b = " + (a % b));
     }
 
-    
+    public void relationalOperators() {
+        int a = 11, b = 5;
+        System.out.println("\nRelational Operators:");
+        System.out.println("a == b: " + (a == b));
+        System.out.println("a != b: " + (a != b));
+        System.out.println("a > b: " + (a > b));
+        System.out.println("a < b: " + (a < b));
+        System.out.println("a >= b: " + (a >= b));
+        System.out.println("a <= b: " + (a <= b));
+    }
 }
