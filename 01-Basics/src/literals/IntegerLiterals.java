@@ -2,7 +2,7 @@ package literals;
 
 public class IntegerLiterals {
     public static void main(String[] args) {
-        int decimal = 100;
+        int decimal = 10;
         int hex = 0x64;
         int octal = 0144;
         int binary = 0b1100100;
