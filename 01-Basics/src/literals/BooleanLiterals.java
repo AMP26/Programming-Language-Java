@@ -1,6 +1,5 @@
 package literals;
 
-// BooleanLiterals.java
 public class BooleanLiterals {
     public static void main(String[] args) {
         int n = 101;
