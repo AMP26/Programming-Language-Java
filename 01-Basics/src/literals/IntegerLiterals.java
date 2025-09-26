@@ -7,7 +7,6 @@ public class IntegerLiterals {
         int octal = 0144;
         int binary = 0b1100100;
 
-        // Output
         System.out.println("Integer Literals:");
         System.out.println("Decimal: " + decimal);
         System.out.println("Hexadecimal: " + hex);
