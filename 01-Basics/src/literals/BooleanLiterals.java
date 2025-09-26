@@ -8,7 +8,7 @@ public class BooleanLiterals {
         boolean isSunny = false;
 
         System.out.println("Boolean Literals:");
-        System.out.println(n + " isPalindrome: " + isPalindrome);
+        System.out.println(n + " Is Palindrome? " + isPalindrome);
         System.out.println("isSunny: " + isSunny);
     }
 }
